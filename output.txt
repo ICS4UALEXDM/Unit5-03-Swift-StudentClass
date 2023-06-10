@@ -1,0 +1,7 @@
+There are 5 students on the list.
+The students are:
+Beckothy K Stevens, grade: 12, iep: false
+Nedidiah Rogers, grade: 12, iep: true
+Nikolasso G Riscalas, grade: 12, iep: false
+Adam A De_Meo, grade: 9, iep: false
+Peter P Peters, grade: 11, iep: true
